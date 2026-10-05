@@ -1,0 +1,87 @@
+{
+  "_resourceType": "actor",
+  "id": "e0c4fc01-dac8-4137-bcb6-9edcf4f1fcc5",
+  "name": "",
+  "frame": 0,
+  "animate": false,
+  "spriteSheetId": "780e36dc-d094-489d-8af1-fb053a2d99b3",
+  "prefabId": "",
+  "direction": "down",
+  "moveSpeed": 1,
+  "animSpeed": 15,
+  "paletteId": "",
+  "isPinned": false,
+  "persistent": false,
+  "collisionGroup": "",
+  "collisionExtraFlags": [],
+  "prefabScriptOverrides": {},
+  "symbol": "actor_2",
+  "script": [
+    {
+      "command": "EVENT_SAVE_DATA",
+      "args": {
+        "saveSlot": 0,
+        "__scriptTabs": "save"
+      },
+      "children": {
+        "true": [
+          {
+            "command": "EVENT_SET_VALUE",
+            "args": {
+              "variable": "11",
+              "value": {
+                "type": "number",
+                "value": 1
+              }
+            },
+            "id": "a09a9839-95b9-4517-98ae-b74f9f1249f0"
+          },
+          {
+            "command": "EVENT_CALL_CUSTOM_EVENT",
+            "args": {
+              "customEventId": "0dbfa833-440e-4ef9-99aa-ac005080ee58"
+            },
+            "id": "e0516d0c-1b74-41ed-a9c1-d2d78c4db5f2"
+          },
+          {
+            "command": "EVENT_TEXT",
+            "args": {
+              "text": [
+                "Game saved!",
+                "Password is...\n#14##15##16#"
+              ],
+              "__section": "text",
+              "avatarId": "",
+              "minHeight": 4,
+              "maxHeight": 7,
+              "textX": 1,
+              "textY": 1,
+              "textHeight": 5,
+              "position": "bottom",
+              "clearPrevious": true,
+              "showFrame": "true",
+              "speedIn": -1,
+              "speedOut": -1,
+              "closeWhen": "key",
+              "closeButton": "a",
+              "closeDelayTime": 0.5,
+              "closeDelayFrames": 30
+            },
+            "id": "3412a083-6bee-473f-95c6-9df15e1be094"
+          }
+        ],
+        "load": []
+      },
+      "id": "13808399-41e8-489f-b25f-894819dd3827"
+    }
+  ],
+  "startScript": [],
+  "updateScript": [],
+  "hit1Script": [],
+  "hit2Script": [],
+  "hit3Script": [],
+  "coordinateType": "tiles",
+  "x": 9,
+  "y": 5,
+  "_index": 0
+}

@@ -1,5 +1,106 @@
 {
   "_resourceType": "variables",
-  "variables": [],
+  "variables": [
+    {
+      "id": "0",
+      "name": "P2",
+      "symbol": "var_p2"
+    },
+    {
+      "id": "1",
+      "name": "P5",
+      "symbol": "var_p5"
+    },
+    {
+      "id": "2",
+      "name": "P0",
+      "symbol": "var_p0"
+    },
+    {
+      "id": "3",
+      "name": "P1",
+      "symbol": "var_p1"
+    },
+    {
+      "id": "4",
+      "name": "P3",
+      "symbol": "var_p3"
+    },
+    {
+      "id": "5",
+      "name": "P4",
+      "symbol": "var_p4"
+    },
+    {
+      "id": "bb6edc9d-971f-471e-8268-b617f080cc87__L0",
+      "name": "choice",
+      "symbol": "var_choice_0"
+    },
+    {
+      "id": "6",
+      "name": "P6",
+      "symbol": "var_p6"
+    },
+    {
+      "id": "7",
+      "name": "PwPos",
+      "symbol": "var_pwpos"
+    },
+    {
+      "id": "8",
+      "name": "CursorX",
+      "symbol": "var_cursorx"
+    },
+    {
+      "id": "9",
+      "name": "CursorY",
+      "symbol": "var_cursory"
+    },
+    {
+      "id": "10",
+      "name": "Tmp",
+      "symbol": "var_tmp"
+    },
+    {
+      "id": "11",
+      "name": "Checkpoint",
+      "symbol": "var_checkpoint"
+    },
+    {
+      "id": "12",
+      "name": "Health",
+      "symbol": "var_health"
+    },
+    {
+      "id": "13",
+      "name": "Items",
+      "symbol": "var_items"
+    },
+    {
+      "id": "14",
+      "name": "D0",
+      "symbol": "var_d0"
+    },
+    {
+      "id": "15",
+      "name": "D1",
+      "symbol": "var_d1"
+    },
+    {
+      "id": "16",
+      "name": "D2",
+      "symbol": "var_d2"
+    },
+    {
+      "id": "17",
+      "name": "D3",
+      "symbol": "var_d3"
+    },
+    {
+      "id": "18",
+      "name": "D4",
+      "symbol": "var_d4"
+    }
+  ],
   "constants": []
 }

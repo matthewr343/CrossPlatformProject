@@ -1,6 +1,6 @@
 {
   "_resourceType": "settings",
-  "startSceneId": "",
+  "startSceneId": "4644ae77-ca30-4cba-930c-59239b22a40b",
   "startX": 9,
   "startY": 9,
   "startMoveSpeed": 1,
@@ -99,7 +99,7 @@
   "customControlsSelect": [
     "Shift"
   ],
-  "colorMode": "mono",
+  "colorMode": "mixed",
   "colorCorrection": "default",
   "generateDebugFilesEnabled": false,
   "compilerPreset": 3000,
@@ -112,5 +112,6 @@
   "romFilename": "",
   "defaultSceneTypeId": "TOPDOWN",
   "disabledSceneTypeIds": [],
-  "autoTileFlipEnabled": true
+  "autoTileFlipEnabled": true,
+  "webTemplate": ""
 }

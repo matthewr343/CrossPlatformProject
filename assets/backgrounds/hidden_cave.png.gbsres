@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "4135b165-6706-4d52-b77b-6314650b175e",
+  "name": "hidden_cave",
+  "symbol": "bg_hidden_cave",
+  "tileColors": "",
+  "filename": "hidden_cave.png",
+  "width": 32,
+  "height": 18,
+  "imageWidth": 256,
+  "imageHeight": 144,
+  "autoColor": false
+}
